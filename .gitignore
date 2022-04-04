@@ -1,0 +1,6 @@
+chapter2.txt
+chapter3.txt
+
+#This is a comment inside a .gitignore file
+#by writing *.txt we can ignore all files having a txt extension.
+
